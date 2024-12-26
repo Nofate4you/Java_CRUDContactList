@@ -79,3 +79,10 @@ Example endpoint: [http://localhost:8080/contacts](http://localhost:8080/contact
 - Add, view, update, and delete contacts.
 - Upload profile images.
 - Save multiple contacts and navigate to 2nd, 3rd, etc., pages.
+
+## Screenshots 
+![image](https://github.com/user-attachments/assets/405c37a7-d838-4a3d-bdd5-f89da629477c)
+![image](https://github.com/user-attachments/assets/ccde6110-f610-4b70-896a-9df1a7d3fc96)
+![image](https://github.com/user-attachments/assets/edc5fb0c-c35b-49d6-b9c2-b6b67f70fc4c)
+![image](https://github.com/user-attachments/assets/664a39f3-aae3-4500-87e7-2361971936a7)
+
