@@ -1,7 +1,18 @@
 # FullStack ContactList
 
 ## Overview
-> This Project Showcases Crud-based  
+> This Project Showcases Crud-based
+
+## Features
+- 
+- 
+- 
+
+## Highlights - Technologies Used
+- **SpringBoot**
+- **MySQL**
+
+
 
 ## How to Replicate the Project
 
@@ -37,20 +48,5 @@ Step 9. **Run and Verify the Application**
     - Launch the Spring Boot app on `localhost:8080` and verify all features work as expected.
 
 ---
-
-## Highlights - Technologies Used
-- **SpringBoot**
-- **MySQL**
-
-
-## Key Functionality
-- 
-- 
-- 
-
-## Challenges Overcome
-- 
-- 
-- 
 ## Screenshots
 
