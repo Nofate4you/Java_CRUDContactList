@@ -1,7 +1,7 @@
 # FullStack CRUD ContactList
 
 ## Overview
--This project demonstrates CRUD-based operations. It features a detailed contact list that allows you to display and upload profile images, as well as add your full name, email, phone number, address, and more. The main purpose of this contact list is to manage contacts by adding new ones and storing them in an organized, centralized location.
+This project demonstrates CRUD-based operations. It features a detailed contact list that allows you to display and upload profile images, as well as add your full name, email, phone number, address, and more. The main purpose of this contact list is to manage contacts by adding new ones and storing them in an organized, centralized location.
 
 ## Features
 - CRUD Operations: Allows you to CREATE, READ, UPDATE, and DELETE contact information.
@@ -39,7 +39,7 @@ Navigate to the backend folder:
 cd contactlistapi
 ```
 Update `application.properties` with your PostgreSQL details:
-```properties
+**properties**
 spring.datasource.url=jdbc:postgresql://localhost:5432/contactlistdb
 spring.datasource.username=postgres
 spring.datasource.password=yourpassword
